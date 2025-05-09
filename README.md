@@ -1,6 +1,6 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :07.05.2025
+# Date :09.05.2025
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -49,7 +49,7 @@ int main()
 ```
 # OUTPUT:
 
-![380635022-6af037ce-a03e-4e95-8c0a-ff86ded1d94e](https://github.com/user-attachments/assets/1aba4ee5-c7dd-45d1-b486-4d01a92fe0aa)
+![image](https://github.com/user-attachments/assets/67b0f662-21b0-40fb-9902-fb4f528851fd)
 
 
 # Result
